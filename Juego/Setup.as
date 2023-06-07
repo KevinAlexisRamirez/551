@@ -23,7 +23,7 @@
 			
 			antagonista_new.y=80
 			antagonista_new.x=275;
-			
+		
 		}
 
 	}
